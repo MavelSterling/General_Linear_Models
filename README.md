@@ -1,5 +1,5 @@
-# General_Linear_Models
-Some laboratories made in the course general linear models at the Universidad del Valle
+# General Linear Models I
+Some laboratories made in the course general linear models I at the Universidad del Valle
 
 Angie Rodriquez
 
